@@ -8,3 +8,8 @@ C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Datos\bi
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Datos\obj\Debug\Datos.dll
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Datos\obj\Debug\Datos.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Datos\bin\Debug\Datos.dll
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Datos\bin\Debug\Datos.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Datos\obj\Debug\Datos.dll
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Datos\obj\Debug\Datos.pdb

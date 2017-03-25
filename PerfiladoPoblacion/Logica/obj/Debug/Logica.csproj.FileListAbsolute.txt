@@ -12,3 +12,10 @@ C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Logica\b
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Logica\obj\Debug\Logica.dll
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Logica\obj\Debug\Logica.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Logica\bin\Debug\Logica.dll
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Logica\bin\Debug\Logica.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Logica\bin\Debug\Datos.dll
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Logica\bin\Debug\Datos.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Logica\obj\Debug\Logica.dll
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Logica\obj\Debug\Logica.pdb

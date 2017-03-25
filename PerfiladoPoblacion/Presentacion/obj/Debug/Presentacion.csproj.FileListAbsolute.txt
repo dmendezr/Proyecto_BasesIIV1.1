@@ -45,3 +45,19 @@ C:\Users\Diego\Documents\U\Base de datos II\Proyecto_BasesIIV1.1\PerfiladoPoblac
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\Diego\Documents\U\Base de datos II\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\bin\Debug\Logica.dll
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.PerfilacionBasica.resources
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Roger\Desktop\Bases de Datos2\Proyecto_BasesIIV1.1\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache

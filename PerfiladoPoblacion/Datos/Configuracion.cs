@@ -9,7 +9,7 @@ namespace Datos
     class Configuracion
     {
         static string cadenaConexion =
-          @"Data Source=2278_soporte;Initial Catalog=Padron_Electoral;Integrated Security=True";
+          "Data Source=RIVERA;Initial Catalog=Padron_Electoral;Integrated Security=True";
 
         public static string CadenaConexion
         {
