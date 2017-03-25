@@ -106,7 +106,7 @@ namespace Presentacion
 
         private void Principal_Load(object sender, EventArgs e)
         {
-            txtNombre.Text = this.nombre;
+            
         }
 
         private void perfilacionBasicaToolStripMenuItem_Click(object sender, EventArgs e)
