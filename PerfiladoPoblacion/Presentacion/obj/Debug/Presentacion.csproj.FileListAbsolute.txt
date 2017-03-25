@@ -1,0 +1,31 @@
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.exe.config
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.exe
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\bin\Debug\Datos.dll
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\bin\Debug\Logica.dll
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\bin\Debug\Datos.pdb
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\bin\Debug\Logica.pdb
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Form1.resources
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.exe
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.pdb
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.PerfilacionBasica.resources
+c:\users\roger\documents\visual studio 2015\Projects\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\bin\Debug\Logica.dll
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.PerfilacionBasica.resources
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\U\Base de datos II\Proyecto\PerfiladoPoblacion\Presentacion\obj\Debug\Presentacion.Login.resources
