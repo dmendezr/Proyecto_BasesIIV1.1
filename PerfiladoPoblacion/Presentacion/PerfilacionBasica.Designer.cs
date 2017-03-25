@@ -471,7 +471,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(825, 499);
+            this.ClientSize = new System.Drawing.Size(925, 540);
             this.Controls.Add(this.btnConsulta);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.button2);
@@ -504,6 +504,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "PerfilacionBasica";
             this.Text = "PerfilacionBasica";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.PerfilacionBasica_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
