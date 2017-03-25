@@ -37,6 +37,8 @@
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
+            this.administracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.votanteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
             this.SuspendLayout();
@@ -45,7 +47,8 @@
             // 
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.archivoToolStripMenuItem,
-            this.consultaToolStripMenuItem});
+            this.consultaToolStripMenuItem,
+            this.administracionToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
             this.menuStrip.Size = new System.Drawing.Size(632, 24);
@@ -97,6 +100,21 @@
             this.toolStripStatusLabel.Size = new System.Drawing.Size(39, 17);
             this.toolStripStatusLabel.Text = "Status";
             // 
+            // administracionToolStripMenuItem
+            // 
+            this.administracionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.votanteToolStripMenuItem});
+            this.administracionToolStripMenuItem.Name = "administracionToolStripMenuItem";
+            this.administracionToolStripMenuItem.Size = new System.Drawing.Size(100, 20);
+            this.administracionToolStripMenuItem.Text = "Administracion";
+            // 
+            // votanteToolStripMenuItem
+            // 
+            this.votanteToolStripMenuItem.Name = "votanteToolStripMenuItem";
+            this.votanteToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.votanteToolStripMenuItem.Text = "Votante";
+            this.votanteToolStripMenuItem.Click += new System.EventHandler(this.votanteToolStripMenuItem_Click);
+            // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -129,6 +147,8 @@
         private System.Windows.Forms.ToolStripMenuItem consultaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem perfilacionBasicaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem perfilacionAvanzadaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem administracionToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem votanteToolStripMenuItem;
     }
 }
 
