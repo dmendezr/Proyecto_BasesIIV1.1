@@ -124,5 +124,10 @@ namespace Presentacion
         {
 
         }
+
+        private void consultaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
